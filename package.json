@@ -8,7 +8,9 @@
   },
   "devDependencies": {
     "@sveltejs/kit": "next",
-    "svelte": "^3.34.0"
+    "svelte": "^3.34.0",
+    "@sveltejs/adapter-node": "next",
+    "aws-amplify": "^4.1.3"
   },
   "type": "module",
   "dependencies": {
